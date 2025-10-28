@@ -1,0 +1,232 @@
+{
+    "result": {
+        "data": {
+            "json": {
+                "traces": [
+                    {
+                        "id": "5aff63d7-6e8b-4c57-92cd-f4d7c9fcfeb0",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-16T07:10:33.591Z",
+                        "tags": [
+                            "message",
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "message",
+                        "release": null,
+                        "version": null,
+                        "userId": "61191090325164032",
+                        "environment": "default",
+                        "sessionId": "49e2e74d-37f5-48d7-bb25-8c0dc6caf670",
+                        "public": false
+                    },
+                    {
+                        "id": "43b77e7c-c58e-4e23-a7fb-15ae70af3dcf",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-16T07:02:52.635Z",
+                        "tags": [
+                            "message",
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "message",
+                        "release": null,
+                        "version": null,
+                        "userId": "175258220045012992",
+                        "environment": "default",
+                        "sessionId": "8e35bc76-35ee-46c8-91d3-afc450792ee6",
+                        "public": false
+                    },
+                    {
+                        "id": "e1bb7f25-42bf-4a17-bbff-abf9b19acb33",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-16T03:05:24.560Z",
+                        "tags": [
+                            "message",
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "message",
+                        "release": null,
+                        "version": null,
+                        "userId": "58961384989265925",
+                        "environment": "default",
+                        "sessionId": "baeec542-a022-40d7-9168-4a593d727b01",
+                        "public": false
+                    },
+                    {
+                        "id": "e7b013d5-5fd1-4219-a79d-6c3a264c5976",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-16T03:02:01.485Z",
+                        "tags": [
+                            "message",
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "message",
+                        "release": null,
+                        "version": null,
+                        "userId": "61191090325164032",
+                        "environment": "default",
+                        "sessionId": "056ccce1-14fc-4c66-866a-6d51acf1b652",
+                        "public": false
+                    },
+                    {
+                        "id": "bf2ed786-5eb0-42d2-a2b3-e446e1e1ae89",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-16T03:01:37.190Z",
+                        "tags": [
+                            "message",
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "message",
+                        "release": null,
+                        "version": null,
+                        "userId": "58961384989265925",
+                        "environment": "default",
+                        "sessionId": "6ecf5123-6bd8-4126-acd9-2aa2fa899b10",
+                        "public": false
+                    },
+                    {
+                        "id": "215e8bfd-fb46-46d1-bf16-94fad9b6a9d7",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-16T02:53:10.827Z",
+                        "tags": [
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "workflow",
+                        "release": null,
+                        "version": null,
+                        "userId": "7af21b8a-813b-4ee8-b043-c85d9170d6ad",
+                        "environment": "default",
+                        "sessionId": null,
+                        "public": false
+                    },
+                    {
+                        "id": "4332fee9-b327-4b02-b768-36d4386175cf",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-16T02:53:10.687Z",
+                        "tags": [
+                            "message",
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "message",
+                        "release": null,
+                        "version": null,
+                        "userId": "175258220045012992",
+                        "environment": "default",
+                        "sessionId": "caa267a4-96de-4229-9a3e-02902e227714",
+                        "public": false
+                    },
+                    {
+                        "id": "604c49f1-37dd-4058-979f-42696235edf9",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-16T02:52:51.094Z",
+                        "tags": [
+                            "message",
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "message",
+                        "release": null,
+                        "version": null,
+                        "userId": "7af21b8a-813b-4ee8-b043-c85d9170d6ad",
+                        "environment": "default",
+                        "sessionId": "171e3eee-894c-4593-b7e5-7d63a6a51ce5",
+                        "public": false
+                    },
+                    {
+                        "id": "b1ab1c2a-1b81-44d3-8ee1-226dba618d79",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-15T08:17:08.219Z",
+                        "tags": [
+                            "message",
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "message",
+                        "release": null,
+                        "version": null,
+                        "userId": "181439613280194560",
+                        "environment": "default",
+                        "sessionId": "462ea3fd-d5a0-40fb-96c4-57c15603dd11",
+                        "public": false
+                    },
+                    {
+                        "id": "162e8bb9-3aa3-426a-9130-183ddb432811",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-15T08:17:01.921Z",
+                        "tags": [
+                            "message",
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "message",
+                        "release": null,
+                        "version": null,
+                        "userId": "181439613280194560",
+                        "environment": "default",
+                        "sessionId": "55524ed8-8916-4228-b4e4-d4285bc5446c",
+                        "public": false
+                    },
+                    {
+                        "id": "abbe1547-27cf-462a-88b2-7b110f789082",
+                        "projectId": "cmanns40c0006pf07hhirbfb0",
+                        "timestamp": "2025-05-15T07:57:20.833Z",
+                        "tags": [
+                            "workflow"
+                        ],
+                        "bookmarked": false,
+                        "name": "workflow",
+                        "release": null,
+                        "version": null,
+                        "userId": "7af21b8a-813b-4ee8-b043-c85d9170d6ad",
+                        "environment": "default",
+                        "sessionId": null,
+                        "public": false
+                    }
+                ]
+            },
+            "meta": {
+                "values": {
+                    "traces.0.timestamp": [
+                        "Date"
+                    ],
+                    "traces.1.timestamp": [
+                        "Date"
+                    ],
+                    "traces.2.timestamp": [
+                        "Date"
+                    ],
+                    "traces.3.timestamp": [
+                        "Date"
+                    ],
+                    "traces.4.timestamp": [
+                        "Date"
+                    ],
+                    "traces.5.timestamp": [
+                        "Date"
+                    ],
+                    "traces.6.timestamp": [
+                        "Date"
+                    ],
+                    "traces.7.timestamp": [
+                        "Date"
+                    ],
+                    "traces.8.timestamp": [
+                        "Date"
+                    ],
+                    "traces.9.timestamp": [
+                        "Date"
+                    ],
+                    "traces.10.timestamp": [
+                        "Date"
+                    ]
+                }
+            }
+        }
+    }
+}

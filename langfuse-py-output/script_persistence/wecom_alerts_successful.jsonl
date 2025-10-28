@@ -1,0 +1,1 @@
+{"log_timestamp": "2025-05-16T16:40:36.494697", "status": "SUCCESS", "alert_details": {"trace_id": "128e2b1c-8b1c-4f9f-8428-6c945c0bf950", "error_reason": "Trace Metadata Status: failed", "error_time": "2025-05-16T08:40:28.540Z", "app_workflow_url": "http://119.45.5.64:8080/app/21beb2dd-4738-4116-85b5-37261ad819d0/workflow"}}
